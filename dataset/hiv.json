@@ -1,0 +1,4106 @@
+{
+  "dimension": [
+                 {
+                   "label": "GHO",
+                   "display": "Indicator"
+                 },
+                 {
+                   "label": "PUBLISHSTATE",
+                   "display": "PUBLISH STATES"
+                 },
+                 {
+                   "label": "YEAR",
+                   "display": "Year"
+                 },
+                 {
+                   "label": "REGION",
+                   "display": "WHO region"
+                 },
+                 {
+                   "label": "COUNTRY",
+                   "display": "Country"
+                 }
+               ],
+    "fact": [
+              {
+                "dims": {
+                          "COUNTRY": "Afghanistan",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "<500 [<200–610]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Afghanistan",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "<500 [<200–<500]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Afghanistan",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "<100 [<100–<500]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Albania",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Albania",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Albania",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Algeria",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "<200 [<200–<200]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Algeria",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "<200 [<100–<200]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Algeria",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Angola",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "14 000 [9500–18 000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Angola",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "10 000 [7300–13 000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Angola",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "4800 [3500–6400]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Argentina",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "1700 [1300–2100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Argentina",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "1600 [1300–2000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Argentina",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "1400 [1200–1700]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Armenia",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "<200 [<100–<200]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Armenia",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "<200 [<200–<200]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Armenia",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Australia",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "<200 [<200–<500]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Australia",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "<500 [<200–<500]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Australia",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "<500 [<200–<500]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Austria",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Austria",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Austria",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Azerbaijan",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Azerbaijan",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Azerbaijan",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bahamas",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "<200 [<200–<500]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bahamas",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "<200 [<200–<500]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bahamas",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "<500 [<500–<500]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bahrain",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bahrain",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bahrain",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bangladesh",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "580 [<500–680]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bangladesh",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "<500 [<500–<500]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bangladesh",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Barbados",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Barbados",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Barbados",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Belarus",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "<500 [<200–<500]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Belarus",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "<200 [<100–<500]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Belarus",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Belgium",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Belgium",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Belgium",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Belize",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "<200 [<200–<500]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Belize",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "<200 [<100–<200]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Belize",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Benin",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "2200 [1100–4400]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Benin",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "2000 [980–4100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Benin",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "2400 [1200–4900]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bhutan",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "<100 [<100–<200]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bhutan",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "<100 [<100–<500]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bhutan",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bolivia (Plurinational State of)",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "670 [550–760]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bolivia (Plurinational State of)",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "1600 [1500–1800]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bolivia (Plurinational State of)",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "670 [<500–830]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bosnia and Herzegovina",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bosnia and Herzegovina",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bosnia and Herzegovina",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Botswana",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "4800 [4100–5700]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Botswana",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "7300 [6500–8000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Botswana",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "15 000 [13 000–18 000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Brazil",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "15 000 [11 000–19 000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Brazil",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "15 000 [11 000–19 000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Brazil",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "15 000 [11 000–20 000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Brunei Darussalam",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Brunei Darussalam",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Brunei Darussalam",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bulgaria",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bulgaria",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bulgaria",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Burkina Faso",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "3300 [2400–4400]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Burkina Faso",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "4800 [3600–6300]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Burkina Faso",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "12 000 [9300–15 000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Burundi",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "1900 [1400–2500]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Burundi",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "5200 [4100–6400]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Burundi",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "11 000 [7800–13 000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cabo Verde",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cabo Verde",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cabo Verde",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "<200 [<100–<200]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cambodia",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "1300 [920–1900]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cambodia",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "2500 [1900–3400]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cambodia",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "4500 [3200–5800]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cameroon",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "18 000 [15 000–21 000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cameroon",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "22 000 [19 000–25 000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cameroon",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "19 000 [15 000–24 000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Canada",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Canada",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Canada",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Central African Republic",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "4800 [3700–6400]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Central African Republic",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "7800 [6400–9400]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Central African Republic",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "11 000 [8400–14 000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Chad",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "3100 [2000–4500]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Chad",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "3500 [2600–4800]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Chad",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "5600 [3800–7700]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Chile",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "590 [<500–770]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Chile",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Chile",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "China",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "China",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "China",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Colombia",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Colombia",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Colombia",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Comoros",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Comoros",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Comoros",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Congo",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "4000 [2800–5400]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Congo",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "3900 [3100–4800]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Congo",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "6100 [4700–7800]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Costa Rica",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "<500 [<200–<500]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Costa Rica",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "<500 [<200–<500]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Costa Rica",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "<500 [<500–<500]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Côte d'Ivoire",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "16 000 [11 000–23 000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Côte d'Ivoire",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "24 000 [17 000–34 000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Côte d'Ivoire",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "44 000 [32 000–63 000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Croatia",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Croatia",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Croatia",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cuba",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "<500 [<500–580]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cuba",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "<500 [<200–<500]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cuba",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "<200 [<200–<500]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cyprus",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cyprus",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cyprus",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Czechia",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Czechia",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Czechia",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Democratic People's Republic of Korea",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Democratic People's Republic of Korea",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Democratic People's Republic of Korea",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Democratic Republic of the Congo",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "13 000 [10 000–17 000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Democratic Republic of the Congo",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "34 000 [27 000–40 000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Democratic Republic of the Congo",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "43 000 [35 000–49 000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Denmark",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Denmark",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Denmark",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Djibouti",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "<500 [<500–550]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Djibouti",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "630 [500–780]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Djibouti",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "<500 [<500–690]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Dominican Republic",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "1200 [750–1900]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Dominican Republic",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "3000 [2100–4300]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Dominican Republic",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "4800 [3100–7100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ecuador",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "620 [<500–1500]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ecuador",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "1100 [520–2200]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ecuador",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "1500 [620–2600]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Egypt",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "<500 [<500–500]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Egypt",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "<200 [<200–<500]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Egypt",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "El Salvador",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "700 [<500–1000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "El Salvador",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "<500 [<500–730]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "El Salvador",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "810 [580–1000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Equatorial Guinea",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "1800 [1200–2600]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Equatorial Guinea",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "1400 [970–1900]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Equatorial Guinea",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "680 [<500–1000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Eritrea",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "<500 [<500–890]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Eritrea",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "620 [<500–980]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Eritrea",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "1100 [690–1500]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Estonia",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "<100 [<100–<200]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Estonia",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "<200 [<200–<200]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Estonia",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Eswatini",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "2400 [2000–2900]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Eswatini",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "3800 [3400–4200]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Eswatini",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "5000 [4000–6100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ethiopia",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "11 000 [6800–19 000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ethiopia",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "20 000 [12 000–35 000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ethiopia",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "58 000 [35 000–100 000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Fiji",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Fiji",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Fiji",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Finland",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Finland",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Finland",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "France",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "<500 [<500–540]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "France",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "600 [<500–780]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "France",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "880 [720–1000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Gabon",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "1200 [790–1700]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Gabon",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "1600 [1100–2100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Gabon",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "1600 [1100–2300]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Gambia",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "980 [650–1400]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Gambia",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "970 [660–1400]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Gambia",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "<500 [<500–620]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Georgia",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "<500 [<200–<500]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Georgia",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Georgia",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Germany",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "<500 [<500–670]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Germany",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "<500 [<500–720]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Germany",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "880 [690–1100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ghana",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "14 000 [11 000–18 000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ghana",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "17 000 [14 000–19 000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ghana",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "18 000 [15 000–22 000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Greece",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Greece",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Greece",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Guatemala",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "2200 [2000–2400]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Guatemala",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "1700 [1500–1900]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Guatemala",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "2400 [2000–2700]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Guinea",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "4300 [3300–5400]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Guinea",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "4100 [3300–5000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Guinea",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "5000 [3400–7000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Guinea-Bissau",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "1800 [1400–2100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Guinea-Bissau",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "1900 [1500–2200]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Guinea-Bissau",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "1100 [850–1400]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Guyana",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "<200 [<100–<200]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Guyana",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "<100 [<100–<200]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Guyana",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "<100 [<100–<200]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Haiti",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "2700 [2200–3600]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Haiti",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "4900 [3800–6600]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Haiti",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "12 000 [9400–15 000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Honduras",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "780 [540–1100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Honduras",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "1400 [990–1800]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Honduras",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "3200 [2300–4000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Hungary",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Hungary",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Hungary",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Iceland",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Iceland",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Iceland",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "India",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "India",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "India",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Indonesia",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "38 000 [33 000–43 000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Indonesia",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "24 000 [19 000–28 000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Indonesia",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "1900 [1200–2500]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Iran (Islamic Republic of)",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "2600 [1400–5100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Iran (Islamic Republic of)",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "2400 [1700–3500]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Iran (Islamic Republic of)",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "<500 [<500–1400]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ireland",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ireland",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ireland",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Israel",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Israel",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Israel",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Italy",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "710 [510–930]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Italy",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "830 [620–1100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Italy",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "1200 [1000–1500]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Jamaica",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "1500 [1300–1800]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Jamaica",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "1800 [1500–2100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Jamaica",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "2400 [1900–3100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Japan",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Japan",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Japan",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Jordan",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Jordan",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Jordan",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Kazakhstan",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "<500 [<500–530]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Kazakhstan",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "<500 [<500–<500]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Kazakhstan",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Kenya",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "25 000 [18 000–38 000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Kenya",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "56 000 [41 000–86 000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Kenya",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "120 000 [88 000–190 000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Kuwait",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Kuwait",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Kuwait",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Kyrgyzstan",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "<200 [<200–<500]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Kyrgyzstan",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "<200 [<100–<200]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Kyrgyzstan",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Lao People's Democratic Republic",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "<500 [<500–<500]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Lao People's Democratic Republic",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "<500 [<500–<500]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Lao People's Democratic Republic",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Latvia",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Latvia",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "<200 [<200–<200]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Latvia",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "<100 [<100–<200]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Lebanon",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Lebanon",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Lebanon",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Lesotho",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "6100 [5000–7600]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Lesotho",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "7200 [5600–10 000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Lesotho",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "12 000 [9000–16 000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Liberia",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "1800 [1700–1900]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Liberia",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "2700 [2600–2900]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Liberia",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "3000 [2600–3400]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Libya",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "<200 [<200–<200]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Libya",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "<100 [<100–<200]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Libya",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Lithuania",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Lithuania",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Lithuania",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Luxembourg",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Luxembourg",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Luxembourg",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Madagascar",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "1700 [1200–2300]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Madagascar",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "1400 [1000–1700]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Madagascar",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "<500 [<200–930]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Malawi",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "13 000 [11 000–16 000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Malawi",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "29 000 [25 000–33 000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Malawi",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "57 000 [49 000–65 000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Malaysia",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "2600 [2100–3300]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Malaysia",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "2900 [2400–3300]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Malaysia",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "2700 [2200–3200]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Maldives",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Maldives",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Maldives",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mali",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "6500 [5000–8700]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mali",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "5300 [4100–6700]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mali",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "7700 [5600–9800]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Malta",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Malta",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Malta",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mauritania",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "<500 [<200–<500]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mauritania",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "<500 [<500–<500]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mauritania",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "<500 [<200–<500]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mauritius",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "610 [<500–820]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mauritius",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "<500 [<500–680]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mauritius",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "<100 [<100–<200]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mexico",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mexico",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mexico",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mongolia",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mongolia",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mongolia",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Montenegro",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Montenegro",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Montenegro",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Morocco",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "<500 [<500–600]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Morocco",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "550 [<500–840]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Morocco",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "<500 [<500–680]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mozambique",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "54 000 [39 000–73 000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mozambique",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "64 000 [46 000–87 000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mozambique",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "40 000 [29 000–54 000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Myanmar",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "7800 [5900–11 000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Myanmar",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "11 000 [9600–13 000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Myanmar",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "5800 [4600–6800]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Namibia",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "2700 [2300–3200]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Namibia",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "3500 [3000–3900]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Namibia",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "7300 [5700–9100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Nepal",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "910 [700–1200]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Nepal",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "1400 [1200–1700]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Nepal",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "<500 [<500–500]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Netherlands",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Netherlands",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "<200 [<200–<500]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Netherlands",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "<200 [<200–<200]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "New Zealand",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "New Zealand",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "New Zealand",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Nicaragua",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "<200 [<200–<500]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Nicaragua",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "<500 [<200–<500]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Nicaragua",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "<100 [<100–<500]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Niger",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "1200 [970–1700]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Niger",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "1700 [1300–2100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Niger",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "2300 [1700–3000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Nigeria",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "53 000 [31 000–89 000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Nigeria",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "72 000 [42 000–120 000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Nigeria",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "78 000 [45 000–130 000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Norway",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Norway",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Norway",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Oman",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Oman",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Oman",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Pakistan",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "6400 [5200–7600]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Pakistan",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "1400 [870–1900]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Pakistan",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Panama",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "<500 [<500–530]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Panama",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "<500 [<500–570]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Panama",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "<500 [<500–<500]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Papua New Guinea",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Papua New Guinea",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Papua New Guinea",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Paraguay",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "720 [<500–1200]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Paraguay",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "790 [540–1200]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Paraguay",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "<500 [<200–920]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Peru",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "1000 [650–1900]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Peru",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "2100 [1400–3300]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Peru",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "5100 [3800–7000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Philippines",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "1200 [800–1700]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Philippines",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "<500 [<200–<500]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Philippines",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Poland",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Poland",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Poland",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Portugal",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "<500 [<500–<500]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Portugal",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "930 [730–1200]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Portugal",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "1100 [890–1400]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Qatar",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Qatar",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Qatar",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Republic of Korea",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Republic of Korea",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Republic of Korea",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Republic of Moldova",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "570 [<500–860]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Republic of Moldova",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "740 [510–1100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Republic of Moldova",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "<500 [<500–<500]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Romania",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "<200 [<100–<200]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Romania",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "<200 [<100–<200]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Romania",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "<500 [<500–<500]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Russian Federation",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Russian Federation",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Russian Federation",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Rwanda",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "2900 [2400–3500]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Rwanda",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "5700 [4700–7100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Rwanda",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "18 000 [14 000–22 000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Saudi Arabia",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Saudi Arabia",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Saudi Arabia",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Senegal",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "1300 [1000–1600]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Senegal",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "1300 [1000–1800]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Senegal",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "1700 [1300–2300]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Serbia",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Serbia",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Serbia",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "<200 [<100–<200]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sierra Leone",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "2100 [1600–2800]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sierra Leone",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "2900 [2400–3600]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sierra Leone",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "2400 [1600–3300]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Singapore",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Singapore",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "<100 [<100–<200]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Singapore",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Slovakia",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Slovakia",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Slovakia",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Slovenia",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Slovenia",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Slovenia",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Somalia",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "710 [530–1000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Somalia",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "1400 [1200–1700]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Somalia",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "810 [560–1100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "South Africa",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "71 000 [52 000–91 000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "South Africa",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "140 000 [110 000–170 000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "South Africa",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "100 000 [68 000–140 000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "South Sudan",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "9900 [6900–13 000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "South Sudan",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "9800 [7300–13 000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "South Sudan",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "5100 [2600–7500]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Spain",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Spain",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "1300 [1100–1700]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Spain",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "1800 [1500–2300]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sri Lanka",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "<200 [<200–<500]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sri Lanka",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "<500 [<200–<500]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sri Lanka",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sudan",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "2900 [1400–5200]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sudan",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "1900 [1300–2600]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sudan",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "650 [<500–1700]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Suriname",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "<100 [<100–<200]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Suriname",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "<200 [<100–<500]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Suriname",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "<200 [<100–<500]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sweden",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sweden",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sweden",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Switzerland",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Switzerland",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Switzerland",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Syrian Arab Republic",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Syrian Arab Republic",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Syrian Arab Republic",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Tajikistan",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "<500 [<500–<500]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Tajikistan",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "<500 [<500–560]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Tajikistan",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Thailand",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "18 000 [13 000–26 000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Thailand",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "27 000 [19 000–36 000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Thailand",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "54 000 [45 000–62 000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Republic of North Macedonia",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Republic of North Macedonia",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Republic of North Macedonia",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Timor-Leste",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Timor-Leste",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Timor-Leste",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Togo",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "3800 [3300–4200]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Togo",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "5700 [5100–6300]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Togo",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "5600 [5000–6300]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Trinidad and Tobago",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Trinidad and Tobago",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Trinidad and Tobago",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Tunisia",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "<100 [<100–<200]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Tunisia",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Tunisia",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "<100 [<100–<100]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Turkey",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Turkey",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Turkey",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Turkmenistan",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Turkmenistan",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Turkmenistan",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Uganda",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "23 000 [19 000–31 000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Uganda",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "56 000 [48 000–66 000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Uganda",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "85 000 [75 000–99 000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ukraine",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "6 100 [4 700–8 000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ukraine",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "12 000 [10 000–15 000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ukraine",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "4500 [3100–6200]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Arab Emirates",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Arab Emirates",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Arab Emirates",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Kingdom of Great Britain and Northern Ireland",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Kingdom of Great Britain and Northern Ireland",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Kingdom of Great Britain and Northern Ireland",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Republic of Tanzania",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "24 000 [20 000–29 000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Republic of Tanzania",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "48 000 [42 000–53 000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Republic of Tanzania",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "80 000 [69 000–90 000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United States of America",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United States of America",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United States of America",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Uruguay",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "<200 [<100–<500]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Uruguay",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "<500 [<200–<500]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Uruguay",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "<500 [<100–<500]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Uzbekistan",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "1300 [1100–1500]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Uzbekistan",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "1800 [1700–1900]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Uzbekistan",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "840 [740–920]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Venezuela (Bolivarian Republic of)",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Venezuela (Bolivarian Republic of)",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Venezuela (Bolivarian Republic of)",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Viet Nam",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "4700 [3200–6200]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Viet Nam",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "8500 [6400–9800]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Viet Nam",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "6100 [4300–7800]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Yemen",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "<500 [<200–520]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Yemen",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "<200 [<100–<500]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Yemen",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "<100 [<100–<200]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Zambia",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "17 000 [13 000–22 000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Zambia",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "26 000 [21 000–35 000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Zambia",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "62 000 [49 000–81 000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Zimbabwe",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2018"
+                        },
+                "Value": "22 000 [17 000–27 000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Zimbabwe",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2010"
+                        },
+                "Value": "54 000 [43 000–68 000]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Zimbabwe",
+                          "GHO": "Number of deaths due to HIV/AIDS",
+                          "YEAR": "2000"
+                        },
+                "Value": "120 000 [98 000–150 000]"
+              }
+      ]
+}
