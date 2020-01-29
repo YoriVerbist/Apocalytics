@@ -84,6 +84,10 @@ namespace Apocalythics
         public int max { get; set; }
         public int min { get; set; }
 
+        public HivNumber()
+        { 
+        }
+
         public HivNumber(string context)
         {
             context = context.Replace(" ", "");
@@ -154,8 +158,8 @@ namespace Apocalythics
 
         public bool CalculateDiffrence()
         {
-            //if (value.Count < 2)
-            //    return false; //error handling
+            if (value.Count < 2)
+                return false; //error handling
 
             //firs year start first
             var minValue = this.year.Min();
@@ -166,7 +170,6 @@ namespace Apocalythics
                 this.value.Reverse();
             }
 
-            //for(int i = this.year.Count-1; i >= 0; i--) //Shit's upside down ;_;
             for(int i = 0; i < this.year.Count; i++) //Shit's upside down ;_;
             {
                 if (year[i] == minValue) //skip min value
@@ -200,6 +203,35 @@ namespace Apocalythics
             for (int i = 0; i < this.IncreaseProcent.Count; i++)
             {
                 this.outbreakScore = (this.value[i].average / ((i + 1) * 0.1m));
+            }
+            return true;
+        }
+
+        public bool CalculateNextDecenia()
+        {
+            if(this.IncreaseProcent[this.IncreaseProcent.Count - 2] == 0 || this.IncreaseProcent[this.IncreaseProcent.Count - 1] == 0)
+            {
+                this.IncreaseProcent.Add(0);
+                this.year.Add(this.year.Max() + 10);
+                this.value.Add(new HivNumber()
+                {
+                    average = 0
+                });
+                this.WorldProcent.Add(0);
+                return false;
+            }
+            else
+            {
+                var factor = this.IncreaseProcent[this.IncreaseProcent.Count - 1] / this.IncreaseProcent[this.IncreaseProcent.Count - 2];
+                var newChange = this.IncreaseProcent[this.IncreaseProcent.Count - 1] * factor;
+                this.IncreaseProcent.Add(newChange);
+                this.year.Add(this.year.Max() + 10);
+                this.value.Add(new HivNumber()
+                {
+                    average = (int)(this.value.Last().average * (this.IncreaseProcent.Last()/100))
+                });
+                this.WorldProcent.Add(wpop.GetPopulationPercent(this.country, this.value.Last().average, this.year.Last()));
+
             }
             return true;
         }

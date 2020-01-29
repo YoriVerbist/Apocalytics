@@ -36,14 +36,13 @@ namespace Apocalythics
                 
             }
 
-
             foreach (var c in Calculations)
             {
                 c.CalculateDiffrence();
  
                 for(int i = 0; i < c.year.Count; i++)
                 {
-                    if (c.year[i] == 2000) //start jaar
+                    if (c.year[i] == c.year.Max()) //start jaar
                         Console.WriteLine($"{c.country}: {c.year[i]}: kills: {c.value[i].average}/{c.wpop.GetCountryMax(c.country, c.year[i])} ({c.WorldProcent[i].ToString("0.0000")}%)");
                     else
                         Console.WriteLine($"{c.country}: {c.year[i]}: kills: {c.value[i].average}/{c.wpop.GetCountryMax(c.country, c.year[i])} ({c.WorldProcent[i].ToString("0.0000")}%), Change: {c.IncreaseProcent[i].ToString("0.0000")}%");
@@ -53,7 +52,26 @@ namespace Apocalythics
 
             FindOutbreakCountry(Calculations);
 
-            Console.WriteLine("Done");
+            while (true)
+            {
+                Console.WriteLine("Calculate next decenia");
+                Console.ReadKey();
+
+                foreach (var c in Calculations)
+                {
+                    c.CalculateNextDecenia();
+
+                    for (int i = 0; i < c.year.Count; i++)
+                    {
+                        if (c.year[i] == c.year.Min()) //start jaar
+                            Console.WriteLine($"{c.country}: {c.year[i]}: kills: {c.value[i].average}/{c.wpop.GetCountryMax(c.country, c.year[i])} ({c.WorldProcent[i].ToString("0.0000")}%)");
+                        else
+                            Console.WriteLine($"{c.country}: {c.year[i]}: kills: {c.value[i].average}/{c.wpop.GetCountryMax(c.country, c.year[i])} ({c.WorldProcent[i].ToString("0.0000")}%), Change: {c.IncreaseProcent[i].ToString("0.0000")}%");
+                    }
+                    Console.WriteLine("--------------------------------------");
+                }
+            }
+            Console.WriteLine("Done!");
             Console.ReadKey();
         }
 
@@ -65,7 +83,7 @@ namespace Apocalythics
             var HighestScore = predictionMaths.Max(x => x.outbreakScore);
             var outbreakZone = predictionMaths.Find(x => x.outbreakScore == HighestScore);
 
-            Console.WriteLine($"{outbreakZone.country}");
+            Console.WriteLine($"Outbreak Country: {outbreakZone.country}");
 
         }
     }
