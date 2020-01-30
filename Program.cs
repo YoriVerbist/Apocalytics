@@ -52,8 +52,8 @@ namespace Apocalythics
 
             FindOutbreakCountry(Calculations);
 
-            while (true)
-            {
+            //while (true)
+            //{
                 Console.WriteLine("Calculate next decenia");
                 Console.ReadKey();
 
@@ -70,7 +70,12 @@ namespace Apocalythics
                     }
                     Console.WriteLine("--------------------------------------");
                 }
-            }
+            //}
+
+            MergerPredictions(Calculations, ref obj);
+            string DatasetString = JsonConvert.SerializeObject(obj);
+            File.WriteAllText("dataset/hiv_predict.json", DatasetString);
+
             Console.WriteLine("Done!");
             Console.ReadKey();
         }
@@ -85,6 +90,34 @@ namespace Apocalythics
 
             Console.WriteLine($"Outbreak Country: {outbreakZone.country}");
 
+        }
+
+        static void MergerPredictions(List<PredictionMath> predictionMaths, ref DataSetObj dataset)
+        {
+            foreach(var p in predictionMaths)
+            {
+                Dims dims = new Dims()
+                {
+                    COUNTRY = p.country,
+                    YEAR = p.year.Last().ToString()
+                };
+                Fact fact = new Fact()
+                {
+                    Value = p.value.Last().average.ToString(),
+                    dims = dims
+
+                };
+                dataset.fact.Add(fact);
+            }
+        }
+
+        static void ConvertToCsv(List<PredictionMath> predictionMaths)
+        {
+            string csvContent = "";
+            foreach(var p in predictionMaths)
+            {
+
+            }
         }
     }
 }
