@@ -7,6 +7,7 @@ namespace Apocalythics
 {
     public class WorldPopulation
     {
+        //HDI Rank;Country;1980;1985;1990;2000;2005;2006;2007;2008;2009;2010;2011;2012;2013
         //Type;Name;Country Code; Area(km²);1990;2000;2010;2011;2012;2013;2014;2015;2016;2017;2018
         public string type { get; set; }
         public string country { get; set; }

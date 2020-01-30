@@ -15,7 +15,9 @@ namespace Apocalythics
             wpopulation wpop = new wpopulation("dataset/WorldPopulation.csv");
 
             List<PredictionMath> Calculations = new List<PredictionMath>();
-           
+
+            Console.WriteLine("Read?");
+            Console.ReadKey();
 
             foreach (var o in obj.fact)
             {
@@ -137,7 +139,11 @@ namespace Apocalythics
             Console.WriteLine(@"      ,#&#                                                                                        @@@@                                             &##                                                  ");
             Console.WriteLine(@"       ###*                                                                                       @@@@                                             ##&.                                                 ");
             Console.WriteLine(@"       %%@#                                                                                       @@@@                                             %##.                                                 ");
-            Console.WriteLine($"        #%@             {text.PadLeft(40).PadRight(40)}                                  @@@@                                             ###*                                                 ");
+            Console.Write($"        #%@             ");
+            Console.ForegroundColor = ConsoleColor.DarkYellow;
+            Console.Write(text.PadLeft(40).PadRight(40));
+            Console.ForegroundColor = ConsoleColor.Gray;
+            Console.WriteLine("                                  @@@@                                             ###*                                                 ");
             Console.WriteLine(@"        ###                                                                                       @@@@                                             %##*                                                 ");
             Console.WriteLine(@"        ///                                                                                       @@@@                                            .###                                                  ");
             Console.WriteLine(@"        ##%(                                                                                      @@@@                                            .##%                                                  ");
